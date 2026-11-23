@@ -18,6 +18,7 @@ omarchy theme install https://github.com/mewset/omarchy-rosendis-theme
 - `backgrounds/` – one 3840×1600 background, which also crops well to 16:9.
 - `chromium.theme` – a dusty plum seed colour, so Chromium gets a dark, rose-tinted UI.
 - `icons.theme` – Yaru-magenta.
+- `t3code.json` – a hand-tuned T3 Code palette covering every colour T3 Code exposes (sidebar, message bubbles, search highlights, warnings and more). Omarchy publishes it to T3 Code as the "Omarchy" theme while Rosendis is active.
 
 ## Palette
 
