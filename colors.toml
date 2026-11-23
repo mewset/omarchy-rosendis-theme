@@ -1,0 +1,32 @@
+# Rosendis: lätt mörkt tema med dammig rosa, byggt kring "Dimmiga rosa kullar i dis".
+mode = "dark"
+
+accent = "#dba6ac"
+selection = "#4f4047"
+muted = "#87747c"
+
+background = "#332a2e"
+dark_background = "#2b2327"
+darker_background = "#231c20"
+lighter_background = "#3f3439"
+
+foreground = "#ecdfdf"
+dark_foreground = "#a8959b"
+light_foreground = "#d8c7c9"
+bright_foreground = "#f6eeec"
+
+red = "#df8a8e"
+yellow = "#ddc391"
+orange = "#dfa38a"
+green = "#a9c19a"
+cyan = "#98c0b8"
+blue = "#a2b3d4"
+magenta = "#cba3c6"
+brown = "#7c5a52"
+
+bright_red = "#eba3a6"
+bright_yellow = "#e8d3a9"
+bright_green = "#bdd2b0"
+bright_cyan = "#b0d2cb"
+bright_blue = "#b9c7e2"
+bright_magenta = "#dbbad7"
